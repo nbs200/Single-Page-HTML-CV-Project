@@ -1,0 +1,31 @@
+body{
+    box-sizing: border-box;
+}
+
+.title p{
+    color: green;
+}
+
+.skills h4{
+    color: green;
+}
+
+.education h4 {
+    color: green;
+}
+
+.education .blue-text{
+    color: blue;
+}
+
+.experience h4{
+    color: green;
+}
+
+.blue-text{
+    color:blue;
+}
+
+.internet h4{
+    color: green;
+}
